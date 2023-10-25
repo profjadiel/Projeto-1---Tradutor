@@ -1,2 +1,4 @@
-# Projeto-1---Tradutor
-programação dos estudantes 
+# Projeto-1: O Tradutor
+
+programação simples: estudantes 
+
